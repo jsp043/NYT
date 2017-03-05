@@ -10,7 +10,7 @@ $("#searchButton").on("click", function(event){
 
 
 
-	var authKey= "b9f91d369ff59547cd47b931d8cbc56b:0:74623931";
+	var authKey = "4a310f28917f4962bc0e9c96b2ee8afc";
 	
 	var queryURL = "https://api.nytimes.com/svc/search/v2/articlesearch.json?api-key=" +
  	 authKey + "&q=";
